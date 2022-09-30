@@ -1,4 +1,4 @@
-# Standard (v 2.0.2)
+# Standard (Tłumaczenie z The Standard v 2.0.3)
 
 Rozmawiaj z nami na Discord:
 
@@ -36,3 +36,18 @@ Rozmawiaj z nami na Discord:
         - [0.1.2.0.2 Modele konfiguracji](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.1%20Przeznaczenie%2C%20Modelowanie%20i%20Symulacja.md#01202-modele-konfiguracji)
     - [0.1.3 Symulacja](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.1%20Przeznaczenie%2C%20Modelowanie%20i%20Symulacja.md#013-symulacja)
     - [0.1.4 Podsumowanie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.1%20Przeznaczenie%2C%20Modelowanie%20i%20Symulacja.md#014-podsumowanie)
+- [0.2 Zasady](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md)
+  - [0.2.0 Stawianie ludzi na pierwszym miejscu](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#020-stawianie-ludzi-na-pierwszym-miejscu)
+    - [0.2.0.0 Prostota](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#0200-prostota)
+     - [0.2.0.0.0 Nadmierne dziedziczenie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#0200-nadmierne-dziedziczenie)
+     - [0.2.0.0.1 Przeplatanie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#0201-przeplatanie)
+     - [0.2.0.0.2 Komponenty samodzielne](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#0202-komponenty-samodzielne)
+       - [0.2.0.0.2.0 Brak Magii](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#02020-brak-magii)
+  - [0.2.1 Przepisywalność](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#021-przepisywalno%C5%9B%C4%87)
+  - [0.2.2 Mono-Micro](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#022-mono-micro)
+  - [0.2.3 Level Zero](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#023-level-zero)
+  - [0.2.4 Otwarty kod](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#024-otwarty-kod)
+  - [0.2.5 Airplane Mode (Cloud Forign)](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#025-airplane-mode-cloud-forign)
+  - [0.2.6 Brak tosterów](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#026-brak-toster%C3%B3w)
+  - [0.2.7 Rozpowszechnianie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#027-rozpowszechnianie)
+- [0.3 Świadectwa](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.3%20%C5%9Awiadectwa.md#03-%C5%9Bwiadectwa)
