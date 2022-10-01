@@ -51,3 +51,13 @@ Rozmawiaj z nami na Discord:
   - [0.2.6 Brak tosterów](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#026-brak-toster%C3%B3w)
   - [0.2.7 Rozpowszechnianie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.2%20Zasady.md#027-rozpowszechnianie)
 - [0.3 Świadectwa](https://github.com/hassanhabib/The-Standard-Polish/blob/main/0.%20Wprowadzenie/0.3%20%C5%9Awiadectwa.md#03-%C5%9Bwiadectwa)
+
+---
+
+<h3>Uznanie</h3>
+
+Podziękowania dla Hassana za oryginał The Standard, który znajdzie nowych przyjaciół również dzieki temu tłumaczeniu.
+
+Podziękowania dla zespołu z [DeepL](https://www.deepl.com/), bez którego to tłumaczenie nie byłoby możliwe w tak efektywny sposób.
+
+---
