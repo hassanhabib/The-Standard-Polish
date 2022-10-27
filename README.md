@@ -70,6 +70,11 @@ Rozmawiaj z nami na Discord:
     - [1.5 Implementacja](https://github.com/hassanhabib/The-Standard-Polish/blob/main/1.%20Brokerzy/1.%20Brokerzy.md#15-implementacja)
     - [1.6 Podsumowanie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/1.%20Brokerzy/1.%20Brokerzy.md#16-podsumowanie)
     - [1.7 FAQs](https://github.com/hassanhabib/The-Standard-Polish/blob/main/1.%20Brokerzy/1.%20Brokerzy.md#17-faqs)
+- [2 Usługi](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#2-us%C5%82ugi)
+  - [2.0 Wprowadzenie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#20-wprowadzenie)
+    - [2.0.0 Usługi operationalne](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#200-us%C5%82ugi-operationalne)
+    - [2.0.1 Rodzaje usług](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#201-rodzaje-us%C5%82ug)
+    - [2.0.2 Zasady ogólne](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#202-zasady-og%C3%B3lne)
 
 ---
 
