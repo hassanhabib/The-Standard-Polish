@@ -75,6 +75,7 @@ Rozmawiaj z nami na Discord:
     - [2.0.0 Usługi operationalne](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#200-us%C5%82ugi-operationalne)
     - [2.0.1 Rodzaje usług](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#201-rodzaje-us%C5%82ug)
     - [2.0.2 Zasady ogólne](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#202-zasady-og%C3%B3lne)
+  - [2.1 Fundamentalne Serwisy (Broker-Neighboring)](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Us%C5%82ugi/2.1%20Fundamentalne/2.1%20Fundamentalne.md#21-fundamentalne-serwisy-broker-neighboring)
 
 ---
 
