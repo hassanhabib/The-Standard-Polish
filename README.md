@@ -76,6 +76,12 @@ Rozmawiaj z nami na Discord:
     - [2.0.1 Rodzaje usług](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#201-rodzaje-us%C5%82ug)
     - [2.0.2 Zasady ogólne](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Serwisy/2.%20Us%C5%82ugi.md#202-zasady-og%C3%B3lne)
   - [2.1 Fundamentalne Serwisy (Broker-Neighboring)](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Us%C5%82ugi/2.1%20Fundamentalne/2.1%20Fundamentalne.md#21-fundamentalne-serwisy-broker-neighboring)
+    - [2.1.0 Wprowadzenie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Us%C5%82ugi/2.1%20Fundamentalne/2.1%20Fundamentalne.md#210-wprowadzenie)
+    - [2.1.1 Na mapie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Us%C5%82ugi/2.1%20Fundamentalne/2.1%20Fundamentalne.md#211-na-mapie)
+    - [2.1.2 Charakterystyka](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Us%C5%82ugi/2.1%20Fundamentalne/2.1%20Fundamentalne.md#212-charakterystyka)
+    - [2.1.3 Odpowiedzialność](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Us%C5%82ugi/2.1%20Fundamentalne/2.1%20Fundamentalne.md#213-odpowiedzialno%C5%9B%C4%87)
+      - [2.1.3.1 Walidacja](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Us%C5%82ugi/2.1%20Fundamentalne/2.1%20Fundamentalne.md#2131-walidacja)
+      - [2.1.3.2 Mapowanie](https://github.com/hassanhabib/The-Standard-Polish/blob/main/2.%20Us%C5%82ugi/2.1%20Fundamentalne/2.1%20Fundamentalne.md#2132-mapowanie)
 
 ---
 
